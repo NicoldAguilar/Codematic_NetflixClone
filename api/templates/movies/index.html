@@ -1,0 +1,5 @@
+
+{% for o in movies %} 
+    <h1>{{ o.name }} {{o.id}}</h1>
+    <img src = "/media/{{o.poster}}">
+{% endfor %}
