@@ -28,3 +28,5 @@ python manage.py createsuperuser
 # los decoradores ejecutan código para una clase en particular
 
 # Movie.gender llama a todos los datos de la tabla gender
+
+# Alertas en navegador: alert("Hola mundo")
