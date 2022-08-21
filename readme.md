@@ -30,3 +30,5 @@ python manage.py createsuperuser
 # Movie.gender llama a todos los datos de la tabla gender
 
 # Alertas en navegador: alert("Hola mundo")
+
+Comit Fourth tiene partes de lo desarrollado en 21/08 
